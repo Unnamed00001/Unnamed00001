@@ -1,9 +1,10 @@
 <h1 align="center">Olá, eu sou o Roger!</h1>
 
 <p align="center">
-🎓 Estudante de <b>Engenharia de Software</b><br>
-💻 Focado em desenvolvimento <b>Full Stack</b><br>
-🚀 Sempre aprendendo e criando novos projetos
+🎓 Estudante de <b>Engenharia de Software</b>, apaixonado por tecnologia e sempre buscando novos desafios.<br>
+💻 Focado em desenvolvimento <b>Full Stack</b>, explorando <b>React, Node.js, Java</b> e práticas modernas de programação.<br>
+🚀 Motivado por aprendizado contínuo, criação de projetos inovadores e crescimento profissional constante.<br>
+📚 Atualmente aprimorando habilidades em <b>mobile, web e back-end</b>, com foco em soluções reais e impactantes.
 </p>
 
 <hr>
