@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Roger!  
 
-<!--
-**Unnamed00001/Unnamed00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Focado em desenvolvimento **Full Stack**  
+🚀 Sempre aprendendo e criando novos projetos  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estudo e utilizo:  
+- JavaScript | Node.js | React | React Native  
+- Java | Express | Expo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Objetivo  
+Me desenvolver como Full Stack Developer, contribuindo em projetos inovadores e de impacto.  
+
+![Cat Typing](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I1M2o3NGQ5N2RhcGdyZzF4NTd5ejJ4dm0xMTM1YWZnZGZ2bjNwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+
+---
+⭐ Confira meus repositórios e acompanhe minha evolução aqui no GitHub!
