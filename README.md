@@ -59,10 +59,6 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Unnamed00001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unnamed00001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Unnamed00001&theme=tokyonight&hide_border=true" />
